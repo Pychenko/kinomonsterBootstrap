@@ -152,6 +152,10 @@ textarea.form-control {
     margin-bottom: 2%;    
 }
 
+.table tbody>tr>td.vert-aligh {
+    vertical-align: center;
+}
+
 .footer {
     color: #666;
     background: #222;
